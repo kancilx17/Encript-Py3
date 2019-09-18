@@ -11,10 +11,7 @@ $ python3 Encript3.py
 ```
 usage Python3 Not Suport Python2
 ```
-## In Tools
-<a href="https://ibb.co/g7xxwg2"><img src="https://i.ibb.co/FWFFJ7r/20190912-143627-picsay.jpg" alt="20190912-143627-picsay" border="0"></a>
-
-
+# TOOLS SEDANG DI UPDATE MAAF_^
 ## Ask Me On
 * [YouTube](https://www.youtube.com/channel/UCopf7XF5D5hVyx2TePHl-pw)
 * [Facebook](https://www.facebook.com/fatahul.ulum.1)
