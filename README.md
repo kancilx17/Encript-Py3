@@ -18,3 +18,5 @@ usage Python3 Not Suport Python2
 * [YouTube](https://www.youtube.com/channel/UCopf7XF5D5hVyx2TePHl-pw)
 * [Facebook](https://www.facebook.com/fatahul.ulum.1)
 * [Instagram](https://www.instagram.com/aditiastrom)
+
+## Recode aku dong kaka ^_^
